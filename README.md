@@ -17,3 +17,9 @@ Anyways enjoy my code, hopefully its useful for some other projects or perhaps a
 - "first release btw and compiling and multiple encoding and obfuscation"
 - "sorry but if I rly wanted to encrypt smth I wouldn't use "okay" as my password 🥀 make it make sense twin"
 - "it was made in a day twin if I really wanted to make an encryptor I would probably spend more than that it was a quick project and it does matter what the password is because a bruteforce is gonna find "okay" so ez"
+
+# Who Makes An Actual Cryptor?
+
+I recommend ![PicoCrypt-NG](https://github.com/Picocrypt-NG/Picocrypt-NG) the successor to the now archived ![PicoCrypt](https://github.com/Picocrypt/Picocrypt)
+
+![PicoNG](https://github.com/Picocrypt-NG/Picocrypt-NG/raw/main/images/screenshot.png)
